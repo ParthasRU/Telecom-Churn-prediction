@@ -1,5 +1,5 @@
 #setting working directory and loading reqd libraries
-setwd("C:\\Jig19073\\Capstone_Final")
+setwd("file path")
 library(dplyr)
 library(dataQualityR)
 library(rpart)
